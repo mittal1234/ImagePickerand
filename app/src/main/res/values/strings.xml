@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagePickerSendEmail</string>
+    <string name="submit">Submit</string>
+    <string name="share_to_email">Share to Email</string>
+    <string name="camera">Camera</string>
+    <string name="galary">Galary</string>
+    <string name="cancel">Cancel</string>
+</resources>
